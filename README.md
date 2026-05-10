@@ -2,6 +2,22 @@
 
 Automation engine for repetitive enterprise workflows.
 
+---
+
+## Workflow Dashboard
+
+![Workflow Dashboard](screenshots/opsautomator-ai-workflow-dashboard.png)
+
+![Workflow Dashboard 2](screenshots/opsautomator-ai-workflow-dashboard2.png)
+
+---
+
+## Workflow flowchart
+
+![Workflow flowchart](screenshots/opsautomator-ai-workflow-flowchart.png)
+
+---
+
 ## Problem
 
 Many enterprise operational processes still depend on manual work:
@@ -65,6 +81,16 @@ AI Processing
           ↓
 Reports / Alerts
 ```
+
+---
+
+## Documentation
+
+See:
+- workflow-example.md
+- vision.md
+
+---
 
 ## Roadmap
 
